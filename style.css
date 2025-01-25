@@ -1,0 +1,50 @@
+.soz{
+width: 1150px;
+height: 70px;
+align-items: center;
+position: absolute;
+margin-top: -620px;
+margin-left: 150px;
+}
+.soz1{
+    margin-left: 60px;
+}
+.soz2{
+    width: 70px;
+    height: 50px;
+    margin-left: 50px;
+    
+}
+.header{
+    width: 1440px;
+    position: relative;
+}
+.text{
+    margin-top: -320px;
+  font-weight: bold;
+  color: white;
+font-size: 60px;
+margin-left: 150px;
+
+}
+.img{
+    margin-top: 100px;
+    margin-left: 700px;
+}
+.book{
+    width: 300px;
+}
+.page2{
+   background-color: rgba(233, 243, 246, 1); 
+   width: 1200px;
+   height: 300px;
+   margin-left: 130px;
+   margin-top: 100px;
+border-radius: 20px;
+}
+.text2{
+    margin-top: -50px;
+}
+.grid2{
+    display: flex;
+}
